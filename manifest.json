@@ -1,0 +1,16 @@
+{
+  "homepage": "http://madspesh.github.io/madspesh_2",
+  "short_name": "Rebecca Gill Clarke",
+  "name": "Portfolio",
+  "icons": [
+    {
+      "src": "madspesh_favicon.ico",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
