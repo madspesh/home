@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "674bda50ffa38fadebc9da379c924908",
+    "revision": "a30c79dd02baf4d4683fd70faa361bea",
     "url": "/madspesh_2/index.html"
   },
   {
-    "revision": "0d9dff8f34dfc30a8afa",
+    "revision": "9db0e3656d325846f951",
     "url": "/madspesh_2/static/css/main.640d59c7.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/madspesh_2/static/js/2.24f2d423.chunk.js"
   },
   {
-    "revision": "0d9dff8f34dfc30a8afa",
-    "url": "/madspesh_2/static/js/main.dae0c271.chunk.js"
+    "revision": "9db0e3656d325846f951",
+    "url": "/madspesh_2/static/js/main.689f991b.chunk.js"
   },
   {
     "revision": "5388d30be18e0fef950f",
