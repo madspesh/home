@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0a5ae2302d708481e9a9f7be0b444e47",
+    "revision": "59073fa8372ec03022c3a64fb039aa86",
     "url": "/madspesh_2/index.html"
   },
   {
-    "revision": "c1515ad284356e74357f",
+    "revision": "d36556d3998522cab32b",
     "url": "/madspesh_2/static/css/main.c44d1a41.chunk.css"
   },
   {
-    "revision": "a0b3ece4a96f247e83f4",
-    "url": "/madspesh_2/static/js/2.8116b960.chunk.js"
+    "revision": "ad2c2d2ae769b4e0b6aa",
+    "url": "/madspesh_2/static/js/2.438394d2.chunk.js"
   },
   {
-    "revision": "c1515ad284356e74357f",
-    "url": "/madspesh_2/static/js/main.8e170a9e.chunk.js"
+    "revision": "d36556d3998522cab32b",
+    "url": "/madspesh_2/static/js/main.a4cea7c8.chunk.js"
   },
   {
     "revision": "5388d30be18e0fef950f",
@@ -174,6 +174,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "62ab54e4c6da3bf4e0a1da5bd76dbf1c",
     "url": "/madspesh_2/static/media/blog_20191006_pulsesensor.62ab54e4.jpg"
+  },
+  {
+    "revision": "146eb209844410ecb848c11f6784957e",
+    "url": "/madspesh_2/static/media/blog_20191016_glitch.146eb209.jpg"
+  },
+  {
+    "revision": "e35eff096ca664f89cea6453157330c1",
+    "url": "/madspesh_2/static/media/blog_20191016_meetup.e35eff09.jpg"
+  },
+  {
+    "revision": "465f1e44bf4c37a012a661db33ec6d91",
+    "url": "/madspesh_2/static/media/blog_20191016_tinkercad.465f1e44.jpg"
+  },
+  {
+    "revision": "7e857b39badc0d50e4492436b34cd126",
+    "url": "/madspesh_2/static/media/blog_20191016_webxr.7e857b39.jpg"
   },
   {
     "revision": "90a302b76a09b9b47ab9ce497deb8fc7",
