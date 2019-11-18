@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "15814968e00ae2d98fbbdd0c838d41f3",
+    "revision": "b0e8f77d90f51520c06c537a27a74d85",
     "url": "/madspesh_2/index.html"
   },
   {
-    "revision": "8ddb24369f10330664f4",
-    "url": "/madspesh_2/static/css/main.3eb48f1d.chunk.css"
+    "revision": "9cafe22d133dfc5d90c5",
+    "url": "/madspesh_2/static/css/main.c44d1a41.chunk.css"
   },
   {
-    "revision": "b0eb41969cc2b8c6d67e",
-    "url": "/madspesh_2/static/js/2.97cd21a5.chunk.js"
+    "revision": "c7454d3e27072f5ad915",
+    "url": "/madspesh_2/static/js/2.44bff472.chunk.js"
   },
   {
-    "revision": "8ddb24369f10330664f4",
-    "url": "/madspesh_2/static/js/main.99b442a4.chunk.js"
+    "revision": "9cafe22d133dfc5d90c5",
+    "url": "/madspesh_2/static/js/main.18c34052.chunk.js"
   },
   {
     "revision": "5388d30be18e0fef950f",
@@ -266,6 +266,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c2f4ff31622aedd9513f95e4fca982bb",
     "url": "/madspesh_2/static/media/blog_20191103_wildcardtest.c2f4ff31.jpg"
+  },
+  {
+    "revision": "97e3d2de94c6a0c536386c82a5942485",
+    "url": "/madspesh_2/static/media/blog_20191117_cardflip.97e3d2de.mp4"
+  },
+  {
+    "revision": "e3a2a31fb7067d22f6635c219f426e88",
+    "url": "/madspesh_2/static/media/blog_20191117_figma.e3a2a31f.jpg"
+  },
+  {
+    "revision": "d9e04d9da4def8c2a3eda9a2aaee5e83",
+    "url": "/madspesh_2/static/media/blog_20191117_screens.d9e04d9d.jpg"
   },
   {
     "revision": "90a302b76a09b9b47ab9ce497deb8fc7",
