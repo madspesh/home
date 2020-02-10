@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3a917b150130996e6e3881272f1ac8f8",
+    "revision": "3e77e8fc2a68589f99e04468a7fabdf2",
     "url": "/index.html"
   },
   {
-    "revision": "04d6659a5653e573d3e9",
-    "url": "/static/css/main.1c45a075.chunk.css"
+    "revision": "dd2f7c5d276c9835781f",
+    "url": "/static/css/main.4072cfc8.chunk.css"
   },
   {
     "revision": "31d048bfc08238bacb99",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.92257088.chunk.js.LICENSE"
   },
   {
-    "revision": "04d6659a5653e573d3e9",
+    "revision": "dd2f7c5d276c9835781f",
     "url": "/static/js/main.17a117e2.chunk.js"
   },
   {
@@ -416,8 +416,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/coinkiller_insidemachine.75f0634e.jpg"
   },
   {
-    "revision": "a373a0c04e4dff62b704453d92b6823c",
-    "url": "/static/media/coinkiller_thumbnail_colour.a373a0c0.gif"
+    "revision": "1947fde87cc88ada7b0cee09799d6fdf",
+    "url": "/static/media/coinkiller_thumbnail_colour.1947fde8.gif"
   },
   {
     "revision": "c3916280bc04b88c82b59bbe04e99c6c",
