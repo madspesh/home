@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3facb8533f9e08527baf4e7d5646ae31",
+    "revision": "0e7a1d4d7a95c042984f20496438b0c6",
     "url": "/index.html"
   },
   {
-    "revision": "76b22ea9867820b4eb70",
-    "url": "/static/css/main.35c77440.chunk.css"
+    "revision": "84c9d59533de314ec742",
+    "url": "/static/css/main.759abb02.chunk.css"
   },
   {
-    "revision": "34bfa2aa47a135ee6fba",
-    "url": "/static/js/2.a6f3aeb0.chunk.js"
+    "revision": "c9763c0bb58704a9ef64",
+    "url": "/static/js/2.13b147ad.chunk.js"
   },
   {
     "revision": "362df10572b0abfdaf60a2f26adf4eb8",
-    "url": "/static/js/2.a6f3aeb0.chunk.js.LICENSE"
+    "url": "/static/js/2.13b147ad.chunk.js.LICENSE"
   },
   {
-    "revision": "76b22ea9867820b4eb70",
-    "url": "/static/js/main.7501f0f9.chunk.js"
+    "revision": "84c9d59533de314ec742",
+    "url": "/static/js/main.b87f7610.chunk.js"
   },
   {
     "revision": "6aba7bae998829c1ad06",
@@ -142,6 +142,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9caaa62f7e63104507dd9dce195e3b2f",
     "url": "/static/media/aeropress_unityvideo.9caaa62f.mp4"
+  },
+  {
+    "revision": "b5fc1d9fa456687b0323ad9b739c611a",
+    "url": "/static/media/album.b5fc1d9f.jpg"
   },
   {
     "revision": "7107d69d75d7bb1d84f32db672937fba",
@@ -354,6 +358,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "06b6ce51749090c33e5f8e790e385fd8",
     "url": "/static/media/blog_20191202_script.06b6ce51.png"
+  },
+  {
+    "revision": "6091f65bac2bca3c37a18e06055a99a4",
+    "url": "/static/media/book.6091f65b.jpg"
   },
   {
     "revision": "23d5615d129328bfd42f70805a9ff79a",
@@ -600,10 +608,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/houserules_topview.7ab46dd2.jpg"
   },
   {
-    "revision": "763584e2a6d2e73e4e1d8c2fdb30a90b",
-    "url": "/static/media/itsme.763584e2.jpg"
-  },
-  {
     "revision": "ca377b42c98dd35e9bda24389dc473bc",
     "url": "/static/media/mariah_p5.ca377b42.jpg"
   },
@@ -658,6 +662,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f80343d681c4b3db3fc0ea28ee4aeaa2",
     "url": "/static/media/perfectweekend_voting.f80343d6.mp4"
+  },
+  {
+    "revision": "c512e3c49caa12e2bcce9689b6f7adad",
+    "url": "/static/media/rebecca.c512e3c4.jpg"
   },
   {
     "revision": "c46ab9451ceace9088a6154b5ec4ba85",
