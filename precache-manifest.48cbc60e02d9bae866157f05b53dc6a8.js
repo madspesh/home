@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0e7a1d4d7a95c042984f20496438b0c6",
+    "revision": "06c85bc8b745e5667f37022c06f044b8",
     "url": "/index.html"
   },
   {
-    "revision": "84c9d59533de314ec742",
+    "revision": "081bae27668d74aad554",
     "url": "/static/css/main.759abb02.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.13b147ad.chunk.js.LICENSE"
   },
   {
-    "revision": "84c9d59533de314ec742",
-    "url": "/static/js/main.b87f7610.chunk.js"
+    "revision": "081bae27668d74aad554",
+    "url": "/static/js/main.3779b5fe.chunk.js"
   },
   {
     "revision": "6aba7bae998829c1ad06",
@@ -712,6 +712,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/sony_filters.07708bdb.jpg"
   },
   {
+    "revision": "5ae4940ccdb2ba104cb880d7aa7cb7e1",
+    "url": "/static/media/sony_ghosts.5ae4940c.jpg"
+  },
+  {
     "revision": "9971de1f9ae04701babf67642cb4ea26",
     "url": "/static/media/sony_gif_1.9971de1f.gif"
   },
@@ -734,10 +738,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d500a1c08e4096b24363469f1795922f",
     "url": "/static/media/sony_gif_6.d500a1c0.gif"
-  },
-  {
-    "revision": "31e25ef9ceb6061c8b6b230cee1cb3f7",
-    "url": "/static/media/sony_selfie.31e25ef9.jpg"
   },
   {
     "revision": "16d76d8f0c069a3b20b9bd50e398b74e",

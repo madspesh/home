@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.759abb02.chunk.css",
-    "main.js": "/static/js/main.b87f7610.chunk.js",
-    "main.js.map": "/static/js/main.b87f7610.chunk.js.map",
+    "main.js": "/static/js/main.3779b5fe.chunk.js",
+    "main.js.map": "/static/js/main.3779b5fe.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fb87c1fc.js",
     "runtime-main.js.map": "/static/js/runtime-main.fb87c1fc.js.map",
     "static/js/2.13b147ad.chunk.js": "/static/js/2.13b147ad.chunk.js",
     "static/js/2.13b147ad.chunk.js.map": "/static/js/2.13b147ad.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.1b16327bdc304d15847b0ca699f1c93f.js": "/precache-manifest.1b16327bdc304d15847b0ca699f1c93f.js",
+    "precache-manifest.48cbc60e02d9bae866157f05b53dc6a8.js": "/precache-manifest.48cbc60e02d9bae866157f05b53dc6a8.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.759abb02.chunk.css.map": "/static/css/main.759abb02.chunk.css.map",
     "static/js/2.13b147ad.chunk.js.LICENSE": "/static/js/2.13b147ad.chunk.js.LICENSE",
@@ -175,13 +175,13 @@
     "static/media/sliderquiz_sketch.jpg": "/static/media/sliderquiz_sketch.9bbba25a.jpg",
     "static/media/sliderquiz_smallincorrectguess.gif": "/static/media/sliderquiz_smallincorrectguess.0275a07e.gif",
     "static/media/sony_filters.jpg": "/static/media/sony_filters.07708bdb.jpg",
+    "static/media/sony_ghosts.jpg": "/static/media/sony_ghosts.5ae4940c.jpg",
     "static/media/sony_gif_1.gif": "/static/media/sony_gif_1.9971de1f.gif",
     "static/media/sony_gif_2.gif": "/static/media/sony_gif_2.a3bf1d37.gif",
     "static/media/sony_gif_3.gif": "/static/media/sony_gif_3.84bca376.gif",
     "static/media/sony_gif_4.gif": "/static/media/sony_gif_4.01eeb1c1.gif",
     "static/media/sony_gif_5.gif": "/static/media/sony_gif_5.53bf67dd.gif",
     "static/media/sony_gif_6.gif": "/static/media/sony_gif_6.d500a1c0.gif",
-    "static/media/sony_selfie.jpg": "/static/media/sony_selfie.31e25ef9.jpg",
     "static/media/sony_singapore.jpg": "/static/media/sony_singapore.16d76d8f.jpg",
     "static/media/sony_sketches.jpg": "/static/media/sony_sketches.f446578f.jpg",
     "static/media/workmode_js.jpg": "/static/media/workmode_js.104f8abb.jpg",
@@ -194,6 +194,6 @@
     "static/js/runtime-main.fb87c1fc.js",
     "static/js/2.13b147ad.chunk.js",
     "static/css/main.759abb02.chunk.css",
-    "static/js/main.b87f7610.chunk.js"
+    "static/js/main.3779b5fe.chunk.js"
   ]
 }
