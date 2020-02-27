@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.76ef46e0.chunk.css",
-    "main.js": "/static/js/main.75c5212b.chunk.js",
-    "main.js.map": "/static/js/main.75c5212b.chunk.js.map",
+    "main.js": "/static/js/main.ce9e9258.chunk.js",
+    "main.js.map": "/static/js/main.ce9e9258.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fb87c1fc.js",
     "runtime-main.js.map": "/static/js/runtime-main.fb87c1fc.js.map",
-    "static/js/2.90f388ce.chunk.js": "/static/js/2.90f388ce.chunk.js",
-    "static/js/2.90f388ce.chunk.js.map": "/static/js/2.90f388ce.chunk.js.map",
+    "static/js/2.df48121a.chunk.js": "/static/js/2.df48121a.chunk.js",
+    "static/js/2.df48121a.chunk.js.map": "/static/js/2.df48121a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.746a377b5bf09c694cbb4dc1582adf83.js": "/precache-manifest.746a377b5bf09c694cbb4dc1582adf83.js",
+    "precache-manifest.a6a12be5691764bc1cb6c618156d2eb7.js": "/precache-manifest.a6a12be5691764bc1cb6c618156d2eb7.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.76ef46e0.chunk.css.map": "/static/css/main.76ef46e0.chunk.css.map",
-    "static/js/2.90f388ce.chunk.js.LICENSE": "/static/js/2.90f388ce.chunk.js.LICENSE",
+    "static/js/2.df48121a.chunk.js.LICENSE": "/static/js/2.df48121a.chunk.js.LICENSE",
     "static/media/actiontime_UI.jpg": "/static/media/actiontime_UI.5ab52bd3.jpg",
     "static/media/actiontime_briefingnotes.jpg": "/static/media/actiontime_briefingnotes.6cd83d5a.jpg",
     "static/media/actiontime_clickable.mp4": "/static/media/actiontime_clickable.a86b33b5.mp4",
@@ -167,6 +167,7 @@
     "static/media/rebecca.jpg": "/static/media/rebecca.c512e3c4.jpg",
     "static/media/sliderquiz_closeguess.gif": "/static/media/sliderquiz_closeguess.c46ab945.gif",
     "static/media/sliderquiz_correctguess.gif": "/static/media/sliderquiz_correctguess.f3d64bfd.gif",
+    "static/media/sliderquiz_desktop_.mp4": "/static/media/sliderquiz_desktop_.e95e4da4.mp4",
     "static/media/sliderquiz_largeincorrectguess.gif": "/static/media/sliderquiz_largeincorrectguess.d35835ad.gif",
     "static/media/sliderquiz_lowfidelity.jpg": "/static/media/sliderquiz_lowfidelity.d6e4996e.jpg",
     "static/media/sliderquiz_mobile.mp4": "/static/media/sliderquiz_mobile.9b8dc375.mp4",
@@ -174,6 +175,7 @@
     "static/media/sliderquiz_secondaryactions.jpg": "/static/media/sliderquiz_secondaryactions.408f1569.jpg",
     "static/media/sliderquiz_sketch.jpg": "/static/media/sliderquiz_sketch.9bbba25a.jpg",
     "static/media/sliderquiz_smallincorrectguess.gif": "/static/media/sliderquiz_smallincorrectguess.0275a07e.gif",
+    "static/media/sliderquiz_userflow.png": "/static/media/sliderquiz_userflow.704d8a93.png",
     "static/media/sony_filters.jpg": "/static/media/sony_filters.07708bdb.jpg",
     "static/media/sony_ghosts.jpg": "/static/media/sony_ghosts.5ae4940c.jpg",
     "static/media/sony_gif_1.gif": "/static/media/sony_gif_1.9971de1f.gif",
@@ -192,8 +194,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.fb87c1fc.js",
-    "static/js/2.90f388ce.chunk.js",
+    "static/js/2.df48121a.chunk.js",
     "static/css/main.76ef46e0.chunk.css",
-    "static/js/main.75c5212b.chunk.js"
+    "static/js/main.ce9e9258.chunk.js"
   ]
 }
