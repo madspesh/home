@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "59a0f3032080a1aa6667de526d8e2287",
+    "revision": "262ed2db397962e9c32a3898163e3f80",
     "url": "/index.html"
   },
   {
-    "revision": "700a708ffc6bbf84efa8",
+    "revision": "ac4167fd290b4404df51",
     "url": "/static/css/main.76ef46e0.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.df48121a.chunk.js.LICENSE"
   },
   {
-    "revision": "700a708ffc6bbf84efa8",
-    "url": "/static/js/main.ce9e9258.chunk.js"
+    "revision": "ac4167fd290b4404df51",
+    "url": "/static/js/main.d9f52c36.chunk.js"
   },
   {
     "revision": "6aba7bae998829c1ad06",
@@ -712,8 +712,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/sliderquiz_thumbnail_colour.ae1a53a4.gif"
   },
   {
-    "revision": "704d8a9310290571d8e0043ac18f81bd",
-    "url": "/static/media/sliderquiz_userflow.704d8a93.png"
+    "revision": "7c2eb7971006bf3c3f4f70053163f596",
+    "url": "/static/media/sliderquiz_userflow.7c2eb797.png"
   },
   {
     "revision": "07708bdb99bc5e721c52a33b5b53709f",
