@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.9834ad4f.chunk.css",
-    "main.js": "/static/js/main.ed07b951.chunk.js",
-    "main.js.map": "/static/js/main.ed07b951.chunk.js.map",
+    "main.js": "/static/js/main.2d603dca.chunk.js",
+    "main.js.map": "/static/js/main.2d603dca.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fb87c1fc.js",
     "runtime-main.js.map": "/static/js/runtime-main.fb87c1fc.js.map",
     "static/js/2.bf40a103.chunk.js": "/static/js/2.bf40a103.chunk.js",
     "static/js/2.bf40a103.chunk.js.map": "/static/js/2.bf40a103.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a9253d47c7b685188969af97eed95cdb.js": "/precache-manifest.a9253d47c7b685188969af97eed95cdb.js",
+    "precache-manifest.5bc27e0906a39f44feebf83f98a181ee.js": "/precache-manifest.5bc27e0906a39f44feebf83f98a181ee.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.9834ad4f.chunk.css.map": "/static/css/main.9834ad4f.chunk.css.map",
     "static/js/2.bf40a103.chunk.js.LICENSE": "/static/js/2.bf40a103.chunk.js.LICENSE",
@@ -210,7 +210,7 @@
     "static/media/rebecca.jpg": "/static/media/rebecca.c512e3c4.jpg",
     "static/media/sliderquiz_closeguess.gif": "/static/media/sliderquiz_closeguess.c46ab945.gif",
     "static/media/sliderquiz_correctguess.gif": "/static/media/sliderquiz_correctguess.f3d64bfd.gif",
-    "static/media/sliderquiz_desktop_.mp4": "/static/media/sliderquiz_desktop_.e95e4da4.mp4",
+    "static/media/sliderquiz_desktop_.mp4": "/static/media/sliderquiz_desktop_.c8a93f63.mp4",
     "static/media/sliderquiz_largeincorrectguess.gif": "/static/media/sliderquiz_largeincorrectguess.d35835ad.gif",
     "static/media/sliderquiz_lowfidelity.jpg": "/static/media/sliderquiz_lowfidelity.d6e4996e.jpg",
     "static/media/sliderquiz_mobile.mp4": "/static/media/sliderquiz_mobile.9b8dc375.mp4",
@@ -218,7 +218,7 @@
     "static/media/sliderquiz_secondaryactions.jpg": "/static/media/sliderquiz_secondaryactions.408f1569.jpg",
     "static/media/sliderquiz_sketch.jpg": "/static/media/sliderquiz_sketch.9bbba25a.jpg",
     "static/media/sliderquiz_smallincorrectguess.gif": "/static/media/sliderquiz_smallincorrectguess.0275a07e.gif",
-    "static/media/sliderquiz_userflow.png": "/static/media/sliderquiz_userflow.7c2eb797.png",
+    "static/media/sliderquiz_userflow.png": "/static/media/sliderquiz_userflow.9315b234.png",
     "static/media/sony_filters.jpg": "/static/media/sony_filters.07708bdb.jpg",
     "static/media/sony_ghosts.jpg": "/static/media/sony_ghosts.5ae4940c.jpg",
     "static/media/sony_gif_1.gif": "/static/media/sony_gif_1.9971de1f.gif",
@@ -239,6 +239,6 @@
     "static/js/runtime-main.fb87c1fc.js",
     "static/js/2.bf40a103.chunk.js",
     "static/css/main.9834ad4f.chunk.css",
-    "static/js/main.ed07b951.chunk.js"
+    "static/js/main.2d603dca.chunk.js"
   ]
 }
