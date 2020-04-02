@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.74b695df.chunk.css",
-    "main.js": "/static/js/main.5e9e796f.chunk.js",
-    "main.js.map": "/static/js/main.5e9e796f.chunk.js.map",
+    "main.js": "/static/js/main.bfb47f5e.chunk.js",
+    "main.js.map": "/static/js/main.bfb47f5e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fb87c1fc.js",
     "runtime-main.js.map": "/static/js/runtime-main.fb87c1fc.js.map",
     "static/js/2.bf40a103.chunk.js": "/static/js/2.bf40a103.chunk.js",
     "static/js/2.bf40a103.chunk.js.map": "/static/js/2.bf40a103.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4231bb3bb49a65ef0a3b5138e40b568d.js": "/precache-manifest.4231bb3bb49a65ef0a3b5138e40b568d.js",
+    "precache-manifest.0a836baf9367bd3ff7af897cf5500492.js": "/precache-manifest.0a836baf9367bd3ff7af897cf5500492.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.74b695df.chunk.css.map": "/static/css/main.74b695df.chunk.css.map",
     "static/js/2.bf40a103.chunk.js.LICENSE": "/static/js/2.bf40a103.chunk.js.LICENSE",
@@ -43,9 +43,9 @@
     "static/media/aeropress_unityvideo.mp4": "/static/media/aeropress_unityvideo.9caaa62f.mp4",
     "static/media/album.jpg": "/static/media/album.b5fc1d9f.jpg",
     "static/media/bigtalk_7in7.png": "/static/media/bigtalk_7in7.728ae3ff.png",
-    "static/media/bigtalk_add.png": "/static/media/bigtalk_add.e5922dcb.png",
+    "static/media/bigtalk_add.png": "/static/media/bigtalk_add.fac5c07d.png",
     "static/media/bigtalk_currentprocess.png": "/static/media/bigtalk_currentprocess.2e2c8d51.png",
-    "static/media/bigtalk_default.png": "/static/media/bigtalk_default.7731f009.png",
+    "static/media/bigtalk_default.gif": "/static/media/bigtalk_default.cad4a29c.gif",
     "static/media/bigtalk_improv.jpg": "/static/media/bigtalk_improv.aeda3f2d.jpg",
     "static/media/bigtalk_interviewquotes.png": "/static/media/bigtalk_interviewquotes.558f7de3.png",
     "static/media/bigtalk_interviewsynthesis.jpg": "/static/media/bigtalk_interviewsynthesis.18588ab6.jpg",
@@ -239,6 +239,6 @@
     "static/js/runtime-main.fb87c1fc.js",
     "static/js/2.bf40a103.chunk.js",
     "static/css/main.74b695df.chunk.css",
-    "static/js/main.5e9e796f.chunk.js"
+    "static/js/main.bfb47f5e.chunk.js"
   ]
 }
