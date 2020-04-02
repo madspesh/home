@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.74b695df.chunk.css",
-    "main.js": "/static/js/main.c8c475ac.chunk.js",
-    "main.js.map": "/static/js/main.c8c475ac.chunk.js.map",
+    "main.js": "/static/js/main.5e9e796f.chunk.js",
+    "main.js.map": "/static/js/main.5e9e796f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fb87c1fc.js",
     "runtime-main.js.map": "/static/js/runtime-main.fb87c1fc.js.map",
     "static/js/2.bf40a103.chunk.js": "/static/js/2.bf40a103.chunk.js",
     "static/js/2.bf40a103.chunk.js.map": "/static/js/2.bf40a103.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f27c3843e02ee1ee5efbd5cee3e5a319.js": "/precache-manifest.f27c3843e02ee1ee5efbd5cee3e5a319.js",
+    "precache-manifest.4231bb3bb49a65ef0a3b5138e40b568d.js": "/precache-manifest.4231bb3bb49a65ef0a3b5138e40b568d.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.74b695df.chunk.css.map": "/static/css/main.74b695df.chunk.css.map",
     "static/js/2.bf40a103.chunk.js.LICENSE": "/static/js/2.bf40a103.chunk.js.LICENSE",
@@ -43,18 +43,18 @@
     "static/media/aeropress_unityvideo.mp4": "/static/media/aeropress_unityvideo.9caaa62f.mp4",
     "static/media/album.jpg": "/static/media/album.b5fc1d9f.jpg",
     "static/media/bigtalk_7in7.png": "/static/media/bigtalk_7in7.728ae3ff.png",
-    "static/media/bigtalk_add.png": "/static/media/bigtalk_add.dc34d5e6.png",
+    "static/media/bigtalk_add.png": "/static/media/bigtalk_add.e5922dcb.png",
     "static/media/bigtalk_currentprocess.png": "/static/media/bigtalk_currentprocess.2e2c8d51.png",
-    "static/media/bigtalk_default.png": "/static/media/bigtalk_default.c6da96da.png",
+    "static/media/bigtalk_default.png": "/static/media/bigtalk_default.7731f009.png",
     "static/media/bigtalk_improv.jpg": "/static/media/bigtalk_improv.aeda3f2d.jpg",
     "static/media/bigtalk_interviewquotes.png": "/static/media/bigtalk_interviewquotes.558f7de3.png",
     "static/media/bigtalk_interviewsynthesis.jpg": "/static/media/bigtalk_interviewsynthesis.18588ab6.jpg",
     "static/media/bigtalk_newprocess.png": "/static/media/bigtalk_newprocess.97c66d87.png",
     "static/media/bigtalk_organising.mp4": "/static/media/bigtalk_organising.e7679ba4.mp4",
-    "static/media/bigtalk_perform.png": "/static/media/bigtalk_perform.7e62e561.png",
+    "static/media/bigtalk_perform.png": "/static/media/bigtalk_perform.22543125.png",
     "static/media/bigtalk_postperformance.mp4": "/static/media/bigtalk_postperformance.bb334940.mp4",
-    "static/media/bigtalk_practice.png": "/static/media/bigtalk_practice.5a1c69f2.png",
     "static/media/bigtalk_practice.gif": "/static/media/bigtalk_practice.754bb0d9.gif",
+    "static/media/bigtalk_practice.png": "/static/media/bigtalk_practice.d6b55712.png",
     "static/media/bigtalk_practicing.mp4": "/static/media/bigtalk_practicing.ccbe8236.mp4",
     "static/media/bigtalk_prepare1.gif": "/static/media/bigtalk_prepare1.c1f19b77.gif",
     "static/media/bigtalk_prepare2.gif": "/static/media/bigtalk_prepare2.b72478a5.gif",
@@ -239,6 +239,6 @@
     "static/js/runtime-main.fb87c1fc.js",
     "static/js/2.bf40a103.chunk.js",
     "static/css/main.74b695df.chunk.css",
-    "static/js/main.c8c475ac.chunk.js"
+    "static/js/main.5e9e796f.chunk.js"
   ]
 }

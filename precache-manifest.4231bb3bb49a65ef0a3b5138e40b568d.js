@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3e05446e71238af23ccf882d842d9d8b",
+    "revision": "506cda1323459a243c4d57ac28516c1a",
     "url": "/index.html"
   },
   {
-    "revision": "21d50282dc83f2bdc86a",
+    "revision": "cdb393b94f6d536d1eee",
     "url": "/static/css/main.74b695df.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.bf40a103.chunk.js.LICENSE"
   },
   {
-    "revision": "21d50282dc83f2bdc86a",
-    "url": "/static/js/main.c8c475ac.chunk.js"
+    "revision": "cdb393b94f6d536d1eee",
+    "url": "/static/js/main.5e9e796f.chunk.js"
   },
   {
     "revision": "6aba7bae998829c1ad06",
@@ -152,16 +152,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/bigtalk_7in7.728ae3ff.png"
   },
   {
-    "revision": "dc34d5e602731641324929b61d5479ee",
-    "url": "/static/media/bigtalk_add.dc34d5e6.png"
+    "revision": "e5922dcb99ec1d742e5be5aec1f14abf",
+    "url": "/static/media/bigtalk_add.e5922dcb.png"
   },
   {
     "revision": "2e2c8d513cfea08ad90df661a4389b17",
     "url": "/static/media/bigtalk_currentprocess.2e2c8d51.png"
   },
   {
-    "revision": "c6da96da67a92649cc1170ed75374b92",
-    "url": "/static/media/bigtalk_default.c6da96da.png"
+    "revision": "7731f00974663989bdf114e0c2987b96",
+    "url": "/static/media/bigtalk_default.7731f009.png"
   },
   {
     "revision": "aeda3f2db8f290aec2ca0ba4d1f0b42f",
@@ -184,20 +184,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/bigtalk_organising.e7679ba4.mp4"
   },
   {
-    "revision": "7e62e561696e618c77e50c2e7dfe23da",
-    "url": "/static/media/bigtalk_perform.7e62e561.png"
+    "revision": "225431257874bc58f14b488673c1c76c",
+    "url": "/static/media/bigtalk_perform.22543125.png"
   },
   {
     "revision": "bb334940dc2d4fd7007b70826c6b0d61",
     "url": "/static/media/bigtalk_postperformance.bb334940.mp4"
   },
   {
-    "revision": "5a1c69f205d2c19589655cccf7530227",
-    "url": "/static/media/bigtalk_practice.5a1c69f2.png"
-  },
-  {
     "revision": "754bb0d9f9886e24cf0660732b541db9",
     "url": "/static/media/bigtalk_practice.754bb0d9.gif"
+  },
+  {
+    "revision": "d6b557121098e40fafe6459cc9f14170",
+    "url": "/static/media/bigtalk_practice.d6b55712.png"
   },
   {
     "revision": "ccbe82365aae20458583f15fe8f6c8ca",
